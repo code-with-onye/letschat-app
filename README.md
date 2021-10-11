@@ -2,6 +2,8 @@
 
 ![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
 
+<h2><a href="https://letschatcode-with-onye.netlify.app/"> DEMO</a></h2>
+
 ## Introduction
 
 This is a code repository for the corresponding video tutorial. In this video, we create a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
